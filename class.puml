@@ -1,3 +1,4 @@
+```plantuml
 @startuml
  class01 <|-- class02
  class03 *-- class04
@@ -19,3 +20,4 @@ class class02 {
    {method}Without parentheses or Qualifiers
 }
 @enduml
+```

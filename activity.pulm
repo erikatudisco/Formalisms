@@ -1,3 +1,4 @@
+```plantuml
 @startuml
 start
 if (Graphviz installed?) then (yes)
@@ -8,3 +9,4 @@ else (no)
 endif
 stop
 @enduml
+```
