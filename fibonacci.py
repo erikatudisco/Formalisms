@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 def fib(nterms):
     # check if nterms is lower than zero
