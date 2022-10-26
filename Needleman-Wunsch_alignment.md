@@ -1,4 +1,6 @@
+```plantuml
 @startuml
+
 start
 
 :i = length(A);
@@ -25,3 +27,4 @@ repeat while ( i>0 and j>0 )
 
 stop
 @enduml
+```
